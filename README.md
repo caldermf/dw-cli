@@ -36,6 +36,7 @@ A file will open in TextEdit. Add
 source ~/.bashrc
 ```
 to this file, and save it.
+
 8. Restart Terminal. Now run
 ```
 dw --help
